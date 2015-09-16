@@ -1,0 +1,2 @@
+# Hubbub
+Java EE Project
